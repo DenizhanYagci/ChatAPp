@@ -4,3 +4,4 @@ Instructions on How to run
 -In order to run the code open  terminal in IDE.
 -In order to run the application in webserver type php artisan serve
 -Go to 127.0.0.1:8000 
+Codes are on master Branch
