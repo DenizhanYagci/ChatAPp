@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "laravel-echo": "^1.11.3",
+    "pusher-js": "^7.0.3",
+    "watch": "^1.0.2"
+  }
+}
